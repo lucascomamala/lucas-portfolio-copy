@@ -213,18 +213,27 @@ nav {
 }
 
 .mainp-tag-container {
-  display: flex;
+  /*display: flex;
   flex-direction: row;
-  align-items: center;
-  padding: 0;
+  align-items: center;*/
   gap: 12px;
   margin-bottom: 10px;
 }
 
+#tag1 {
+  float: left;
+}
+
+#tag2 {
+  float: left;
+}
+
 .mainp-tags {
-  display: flex;
+  /*display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: center;*/
+float: left;
+  margin: 5px;
   padding: 10px 12px;
   background: #fff;
   border: 1px solid #8993a4;
