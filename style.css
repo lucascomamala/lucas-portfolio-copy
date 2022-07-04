@@ -222,6 +222,7 @@ nav {
 
 #tag1 {
   float: left;
+  margin-left: 0;
 }
 
 #tag2 {
